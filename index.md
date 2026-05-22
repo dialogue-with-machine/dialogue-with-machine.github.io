@@ -1,12 +1,12 @@
 ---
 layout: home
-title: Dialogues with Machine
+title: Dialogue with Machine
 ---
-# Dialogues with Machine
+# Dialogue with Machine
 <pre>
 
   
-  Choose "Dialogues with Machine" if your book is a philosophical, poetic, or broad
+  Choose "Dialogue with Machine" if your book is a philosophical, poetic, or broad
   exploration of human-machine interaction, aiming for a timeless or abstract feel.
   
                                                                   — Machine
